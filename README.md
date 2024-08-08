@@ -1,3 +1,3 @@
 # DIGITAL HORIZON
 
-Front-end Flutter project
+Flutter project, Front-end implementation 
