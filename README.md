@@ -1,1 +1,3 @@
-# Digital Horizon
+# DIGITAL HORIZON
+
+A new Flutter project.
